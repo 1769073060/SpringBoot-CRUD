@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec0a201d-3303-414a-8377-bb1de1645744" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot-03-web" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c9iV3yXxD8WwWgkVpNcMEYt7K7" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA项目\springboot-03-web\src\main\resources\templates\emp" />
+      <recent name="D:\IDEA项目\springboot-03-web\src\main\resources\templates" />
+      <recent name="D:\IDEA项目\springboot-03-web\src\main\resources\public" />
+      <recent name="D:\IDEA项目\springboot-03-web\src\main\resources\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA项目\springboot-03-web\src\main\resources\templates" />
+      <recent name="D:\IDEA项目\springboot-03-web\src\main\resources\templates\emp" />
+      <recent name="D:\IDEA项目\springboot-03-web\src\main\resources\static" />
+      <recent name="D:\IDEA项目\springboot-03-web\src\main\resources\public" />
+      <recent name="D:\IDEA项目\springboot-03-web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Springboot03WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-03-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rzk.Springboot03WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="GBK" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec0a201d-3303-414a-8377-bb1de1645744" name="Default Changelist" comment="" />
+      <created>1589947229315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589947229315</updated>
+      <workItem from="1589947234532" duration="3498000" />
+      <workItem from="1590046324813" duration="23943000" />
+      <workItem from="1590224512580" duration="60108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1202" y="285" width="718" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1590382928447">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1202" y="285" width="718" height="584" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1590382928447" />
+    <state x="1380" y="486" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590416423943">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1380" y="486" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590416423943" />
+    <state x="921" y="370" key="FileChooserDialogImpl" timestamp="1590398972812">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="921" y="370" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1590398972812" />
+    <state width="1860" height="254" key="GridCell.Tab.0.bottom" timestamp="1590427124166">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590427124166" />
+    <state width="1860" height="254" key="GridCell.Tab.0.center" timestamp="1590427124165">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="254" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590427124165" />
+    <state width="1860" height="254" key="GridCell.Tab.0.left" timestamp="1590427124164">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="254" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590427124164" />
+    <state width="1860" height="254" key="GridCell.Tab.0.right" timestamp="1590427124165">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="254" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590427124165" />
+    <state width="1860" height="254" key="GridCell.Tab.1.bottom" timestamp="1590427124166">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="254" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590427124166" />
+    <state width="1860" height="254" key="GridCell.Tab.1.center" timestamp="1590427124166">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="254" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590427124166" />
+    <state width="1860" height="254" key="GridCell.Tab.1.left" timestamp="1590427124166">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="254" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590427124166" />
+    <state width="1860" height="254" key="GridCell.Tab.1.right" timestamp="1590427124166">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="254" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590427124166" />
+    <state x="800" y="176" key="SettingsEditor" timestamp="1590309082167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="800" y="176" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1590309082167" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1590224516408">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590224516408" />
+    <state x="1293" y="289" key="run.anything.popup" timestamp="1590070044375">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1293" y="289" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1590070044375" />
+    <state x="758" y="367" width="672" height="678" key="search.everywhere.popup" timestamp="1590311234512">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="758" y="367" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1590311234512" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rzk/controller/LoginController.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
